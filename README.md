@@ -1,38 +1,79 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Prem%20Sagar&fontSize=60&fontAlign=50&fontColor=ffffff"/>
+
 # 👋 Hi, I'm Prem Sagar
 
-### Software Developer • Java Developer • Full Stack Developer • Problem Solver
+### Software Developer • Java Developer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Full+Stack+Developer;500%2B+LeetCode+Problems;Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Developer;Java+Developer;Full+Stack+Developer;500%2B+LeetCode+Problems;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
 </div>
 
 ---
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DSA-Advanced-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-green?style=for-the-badge">
+
+</p>
+
 
 <table>
 <tr>
 
 <td width="55%">
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a **Software Developer** passionate about building scalable applications and solving challenging problems.
+<table>
 
-I enjoy turning ideas into real-world software while continuously improving my development and problem-solving skills.
+<tr>
 
-### 🚀 Quick Highlights
+<td>
 
-- 💻 Passionate about Software Development
-- 🧠 Solved **500+ LeetCode** problems
-- 🟢 Solved **200+ GeeksforGeeks** problems
-- ☕ Strong in **Java**
-- 📚 Love **Data Structures & Algorithms**
-- 🌱 Learning **System Design**
-- ⚡ Exploring **Backend Development**
-- 🤖 Interested in **Artificial Intelligence**
-- 🔥 Building MERN & Java Full Stack Projects
-- 🤝 Open Source Enthusiast
+💻 **Software Development**
+
+Building scalable Full Stack Applications
+
+</td>
+
+<td>
+
+🧠 **Problem Solving**
+
+500+ LeetCode & 200+ GFG Problems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🚀 **Backend**
+
+Spring Boot • Node.js • FastAPI
+
+</td>
+
+<td>
+
+🌱 **Learning**
+
+System Design • AI/ML
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
