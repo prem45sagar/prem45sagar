@@ -322,7 +322,7 @@ To become a Software Engineer who builds impactful products used by millions of 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prem45sagar/prem45sagar/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/prem45sagar/prem45sagar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
