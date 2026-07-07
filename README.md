@@ -289,16 +289,6 @@ To become a Software Engineer who builds impactful products used by millions of 
 
 </div>
 
----
-# 📅 Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prem45sagar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 # ⭐ GitHub Metrics
 
 <div align="center">
