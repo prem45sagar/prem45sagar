@@ -266,27 +266,7 @@ To become a Software Engineer who builds impactful products used by millions of 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prem45sagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem45sagar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=prem45sagar&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prem45sagar&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -314,7 +294,7 @@ To become a Software Engineer who builds impactful products used by millions of 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prem45sagar&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prem45sagar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
