@@ -42,7 +42,7 @@ I'm a passionate **Software Developer** who enjoys building scalable application
 - 💻 Software Development Enthusiast
 - ☕ Java Developer
 - 🧠 500+ LeetCode Problems
-- 🟢 200+ GeeksforGeeks Problems
+- 🟢 100+ GeeksforGeeks Problems
 - ⚙️ Backend Developer
 - 🌐 MERN Stack Developer
 - 🤖 AI & ML Learner
