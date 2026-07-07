@@ -1,12 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Prem%20Sagar&fontSize=60&fontAlign=50&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Prem%20Sagar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Developer;Java+Developer;Full+Stack+Developer;500%2B+LeetCode+Problems;200%2B+GeeksforGeeks+Problems;Backend+Developer;System+Design+Learner;Always+Learning+New+Technologies" />
+
+</div>
+
+---
 
 # 👋 Hi, I'm Prem Sagar
 
-### Software Developer • Java Developer • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Developer;Java+Developer;Full+Stack+Developer;500%2B+LeetCode+Problems;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
 </div>
 
@@ -108,43 +111,63 @@ Become a Software Engineer who builds impactful software products that solve rea
 
 ---
 
-# 🏆 Achievements
+# 💻 Coding Profiles
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="33%">
+<a href="https://leetcode.com/u/premsagar45/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-premsagar45-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-## 🧠
+&nbsp;&nbsp;
 
-# 500+
+<a href="https://www.geeksforgeeks.org/profile/premsagar45?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-premsagar45-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-### LeetCode Problems
+</div>
 
-</td>
+<br>
 
-<td align="center" width="33%">
+<div align="center">
 
-## 🟢
+### 🧠 Competitive Programming
 
-# 200+
+<div align="center">
 
-### GeeksforGeeks Problems
+<a href="https://leetcode.com/u/premsagar45/">
+<img src="https://img.shields.io/badge/500%2B-LeetCode%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-</td>
+<a href="https://www.geeksforgeeks.org/profile/premsagar45?tab=activity">
+<img src="https://img.shields.io/badge/100%2B-GeeksforGeeks%20Problems-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-<td align="center" width="33%">
+</div>
 
-## 🚀
+</div>
 
-# Daily
+---
+# 📈 LeetCode Statistics
 
-### Learning & Building
+<div align="center">
 
-</td>
+<img src="https://leetcard.jacoblin.cool/premsagar45?theme=dark&font=Poppins&ext=contest"/>
 
-</tr>
-</table>
+</div>
+
+---
+# 💎 Skill Progress
+
+| Skill | Progress |
+|--------|----------|
+| ☕ Java | ████████████████████ 95% |
+| 🌐 Full Stack Development | ██████████████████░ 90% |
+| 🧠 Data Structures & Algorithms | ███████████████████░ 92% |
+| ⚙ Backend Development | ████████████████░░░ 85% |
+| 🎨 Frontend Development | ███████████████░░░░ 80% |
+| 🤖 Artificial Intelligence | ██████████░░░░░░░░░ 55% |
+| 🏗 System Design | ████████████░░░░░░░ 65% |
 
 ---
 
@@ -357,7 +380,7 @@ Become a Software Engineer who builds impactful software products that solve rea
 </div>
 
 ---
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -433,7 +456,7 @@ https://github.com/prem45sagar/ParentVerification_Chatboat
 
 🥇 Solved **500+ LeetCode** Problems
 
-🟢 Solved **200+ GeeksforGeeks** Problems
+🟢 Solved **100+ GeeksforGeeks** Problems
 
 ☕ Strong Java Developer
 
@@ -512,11 +535,10 @@ I'm always open to collaborating on interesting projects and discussing software
 ---
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:7F00FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile ❤️
 
-**Happy Coding! 🚀**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;See+You+Again!;Have+a+Great+Day!"/>
 
 </div>
----
