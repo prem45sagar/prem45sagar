@@ -26,88 +26,56 @@
 
 </p>
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%" valign="top">
 
-## 💫 About Me
+### 👨‍💻 Who Am I?
 
-<table>
+I'm a passionate **Software Developer** who enjoys building scalable applications and solving challenging problems.
 
-<tr>
+🚀 **Highlights**
 
-<td>
-
-💻 **Software Development**
-
-Building scalable Full Stack Applications
-
-</td>
-
-<td>
-
-🧠 **Problem Solving**
-
-500+ LeetCode & 200+ GFG Problems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🚀 **Backend**
-
-Spring Boot • Node.js • FastAPI
-
-</td>
-
-<td>
-
-🌱 **Learning**
-
-System Design • AI/ML
-
-</td>
-
-</tr>
-
-</table>
+- 💻 Software Development Enthusiast
+- ☕ Java Developer
+- 🧠 500+ LeetCode Problems
+- 🟢 200+ GeeksforGeeks Problems
+- ⚙️ Backend Developer
+- 🌐 MERN Stack Developer
+- 🤖 AI & ML Learner
+- 📚 System Design Enthusiast
 
 ---
 
 ### 💡 Current Focus
 
-✔ Building scalable Full Stack Applications
-
-✔ Improving Backend Architecture
-
-✔ Learning System Design
-
-✔ Strengthening Problem Solving Skills
-
-✔ Exploring AI & Machine Learning
+- 🚀 Building scalable Full Stack Applications
+- ⚡ Improving Backend Architecture
+- 🏗 Learning System Design
+- 🧠 Strengthening DSA
+- 🤖 Exploring AI & Machine Learning
 
 ---
 
 ### 🎯 Career Goal
 
-Become a Software Engineer who builds impactful software products that solve real-world problems.
+To become a Software Engineer who builds impactful products used by millions of people.
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<img width="420" src="https://user-images.githubusercontent.com/74038190/212750710-1619e4c8-f6e9-4d5c-a8b8-f3b0e95f2c55.gif">
+<img src="./assets/coding.gif" width="330"/>
 
 </td>
 
 </tr>
 </table>
+
+---
 
 ---
 
